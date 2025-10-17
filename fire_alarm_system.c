@@ -3,7 +3,8 @@
 
  * PHẦN 1: KHAI BÁO THƯ VIỆN VÀ BIẾN TOÀN CỤC  
  ***************************************************/
- //
+//Phan mem lap trinh: Arduino
+//
 #include <WiFi.h>
 #include <WebServer.h>
 #include "DHT.h"
